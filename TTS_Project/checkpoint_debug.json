@@ -1,0 +1,11 @@
+{
+    "keys": [
+        "weight",
+        "config",
+        "info",
+        "sr",
+        "f0",
+        "version"
+    ],
+    "state_dict_keys": []
+}
