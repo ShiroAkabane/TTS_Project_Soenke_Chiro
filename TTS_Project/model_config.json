@@ -1,0 +1,5 @@
+{
+    "model_path": "GRSoraKH2_e200_s27800/GRSoraKH2.pth",
+    "sample_rate": 27800,
+    "max_text_length": 256
+}
